@@ -1,7 +1,7 @@
 # demo
 
 
-this a second attempt
+this is a weird update
 
 i am adding something new to pull on VSC
 
